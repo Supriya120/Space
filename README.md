@@ -12,5 +12,5 @@ export default function SpaceAnimation() {
       </div>
     </div>
   );
-}# Space
+}<br># Space
 only for show
